@@ -13,7 +13,7 @@
       description: 资源分享，详细图文教程。
     - title: 优淘好卷
       qrcode: 
-      logo: images/logos/yt.png
+      logo: images/qrcodes/yt.png
       url: https://ghkuo.yhzu.cn
       description: 淘宝京东拼多多超值购平台
     - title: 大流量卡
