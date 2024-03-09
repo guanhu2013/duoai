@@ -5,13 +5,12 @@
   links: 
     - title: YouTube
       logo: 
-      url: https://www.youtube.com/channel/UCgV1t5fHFvAVPyprEWvuIzg/
+      url: https://www.youtube.com/
       description: 一个专注于软件安装，科学上网教学的频道！
-    - title: 资源博客
-      qrcode: images/qrcodes/bk.png
+    - title: 大流量卡
       logo:  images/logos/kjgxa999f-kjgx1fr3l-001.ico
-      url: https://kjgx668.blogspot.com/
-      description: 资源分享，详细图文教程。
+      url: https://haokawx.lot-ml.com/Product/index/504996
+      description: 大流量号卡推荐，实现流量自由。
     - title: 优淘好卷
       qrcode: 
       logo: images/logos/yt.png
