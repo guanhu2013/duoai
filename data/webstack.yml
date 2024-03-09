@@ -7,10 +7,10 @@
       logo: 
       url: https://www.youtube.com/
       description: 一个专注于软件安装，科学上网教学的频道！
-    - title: 大流量卡
+    - title: 资源博客
+      qrcode: images/qrcodes/bk.png
       logo:  images/logos/kjgxa999f-kjgx1fr3l-001.ico
-      url: https://haokawx.lot-ml.com/Product/index/504996
-      description: 大流量号卡推荐，实现流量自由。
+      url: https://kjgx668.blogspot.com/
     - title: 优淘好卷
       qrcode: 
       logo: images/logos/yt.png
