@@ -16,9 +16,11 @@
       logo: images/logos/yt.png
       url: https://ghkuo.yhzu.cn
       description: 淘宝京东拼多多超值购平台
-    - title: 虚拟信用卡
-      url: https://gpt.fomepay.com/#/pages/login/index?d=UE9260
-      description: 支付宝、微信充值，海外消费。
+    - title: 大流量卡
+      logo: images/qrcodes/2.jpg
+      qrcode: images/qrcodes/3jpg.png
+      url: https://haokawx.lot-ml.com/Product/index/504996
+      description: 大流量号卡推荐，实现流量自由。
     - title: 美国虚拟卡
       qrcode: images/qrcodes/usdt.png
       logo:
